@@ -1,4 +1,4 @@
-module github.com/angli232/serial
+module github.com/antare74/serial
 
 go 1.18
 
